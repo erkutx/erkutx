@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **iOS Development & Front-end Development**
 
-- 📫 How to reach me **www.linkedin.com/in/erkut-çetiner**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
