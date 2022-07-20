@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [my portfolio page||coming soon...](my portfolio page||coming soon...)
+- 👨‍💻 All of my projects are available at my portfolio page || Coming Soon...
 
 - 💬 Ask me about **iOS Development & Front-end Development**
 
