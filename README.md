@@ -1,5 +1,6 @@
-<h1 align="center![Green and White Technology LinkedIn Banner](https://user-images.githubusercontent.com/78658900/180100831-d3ead2a4-67ab-4add-b88f-817339fccd9f.gif)
-">Hi 👋, I'm Erkut Cetiner</h1>
+![Green and White Technology LinkedIn Banner](https://user-images.githubusercontent.com/78658900/180100945-f29126f3-4d9c-4ffe-8eeb-27ad59a78d7e.gif)
+
+<h1 align="center">Hi 👋, I'm Erkut Cetiner</h1>
 
 <h3 align="center">I am studying Information Systems Engineering in Dual-Diploma Program in both Istanbul Technical University and State University of New York at Binghamton.I am interested in object oriented programing,technological advances,operation management,both pre and after sales.I am looking for opportunity to develop myself by means of gaining new skills and enhance the existing ones and i have intention to operate at different operations at the field of information technologies.</h3>
 
