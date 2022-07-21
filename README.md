@@ -5,7 +5,7 @@
 <h3 align="center">I am interested in object oriented programing,technological advances,operation management,both pre and after sales.I am looking for opportunity to develop myself by means of gaining new skills and enhance the existing ones and i have intention to operate at different operations at the field of information technologies.</h3>
 
 
-- 🔭 I’m currently working on < img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+- 🔭 I’m currently working on <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 - 🌱 I’m currently learning **Express.js**
 
