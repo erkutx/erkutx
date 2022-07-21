@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Erkut Cetiner</h1>
 
 <h3 align="center">I am interested in object oriented programing,technological advances,operation management,both pre and after sales.I am looking for opportunity to develop myself by means of gaining new skills and enhance the existing ones and i have intention to operate at different operations at the field of information technologies.</h3>
-<img src=img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<img  align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
 
 - 🔭 I’m currently working on **portfolio projects of mine**
