@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Erkut Cetiner</h1>
 
 <h3 align="center">I am interested in object oriented programing,technological advances,operation management,both pre and after sales.I am looking for opportunity to develop myself by means of gaining new skills and enhance the existing ones and i have intention to operate at different operations at the field of information technologies.</h3>
-<img src=img align="right" alt="Coding" width="400" src="(https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif)">
+<img src=img align="right" alt="Coding" width="300" src="[(https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif)](https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif)">
 
 
 - 🔭 I’m currently working on **portfolio projects of mine**
