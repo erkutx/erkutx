@@ -1,6 +1,6 @@
 ![Green and White Technology LinkedIn Banner](https://user-images.githubusercontent.com/78658900/180100945-f29126f3-4d9c-4ffe-8eeb-27ad59a78d7e.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋 I'm+Erkut+Cetiner;iOS Developer)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, I'm Erkut Cetiner</h1>
 
